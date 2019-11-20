@@ -5,3 +5,4 @@
 ### LEAFLET : http://leaflet.marsgis.cn/
 ### node 历史版本库 ： https://npm.taobao.org/mirrors/node
 ### webpack:https://www.webpackjs.com/
+### vscode 前端插件 https://blog.csdn.net/qq_42690547/article/details/86483463
