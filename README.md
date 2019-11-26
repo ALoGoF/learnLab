@@ -6,3 +6,4 @@
 ### node 历史版本库 ： https://npm.taobao.org/mirrors/node
 ### webpack:https://www.webpackjs.com/
 ### vscode 前端插件 https://blog.csdn.net/qq_42690547/article/details/86483463
+### nodejs服务器代理 ： https://www.jianshu.com/p/45db0b56e384
