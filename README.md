@@ -1,5 +1,4 @@
 # 这是一个记录我学习资料的git仓库
-### 前端自学网 ：http://uyi2.com/
 ### 正则表达式 ： https://deerchao.cn/tutorials/regex/regex.htm
 ### MDN : https://developer.mozilla.org/zh-CN/docs/Web
 ### LEAFLET : http://leaflet.marsgis.cn/
